@@ -82,7 +82,7 @@ struct MovieDetailView: View {
                             .frame(maxWidth: .infinity, alignment: .leading)
                     }
                 }
-            }
+            }.padding()
         }
     }
     
